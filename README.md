@@ -40,14 +40,6 @@
 
 <!--- G I T H U B   C O N T R I B U T I O N   G R A P H --->
 
-<p align="center">
-  <br>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=akbarlucu&theme=react-dark&hide_border=true">
-  </a>
-</p>
-
-
 
 
 <h2 align="center">〽️ STATISTICS 〽️</h2>
