@@ -48,26 +48,6 @@
 </p>
 
 
-<!--- L A N G U A G E - F R A M E W O R K S -  T O O L S --->
-
-<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,github,python,html,js,css,wordpress,md,graphql,atom,discord" /><br>
-    <img src="https://skillicons.dev/icons?i=heroku,bootstrap,mongodb,mysql,blender,linux,vscode,ps,ae,pr,ai," />
-  </a>
-</p><br>
-
-<h2 align="center">Learning</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,solidity,aws,googlecloud,electron,xd" />
-  </a>
-</p>
-
-<hr>
-
 
 
 <h2 align="center">〽️ STATISTICS 〽️</h2>
