@@ -95,15 +95,7 @@
 <h2 align="center">💾 REPOSITORIES 💾</h2>
 <br>
 <div width="100%" align="center">
-  <!--- Repo #1 --->
-  <a align="right" href="https://github.com/Rachit-Pal/NekoRobot" title="Powerful telegram group management bot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit-Pal&repo=NekoRobot&theme=react&border_color=61dafb&border_radius=10"></a>
-  <!--- Repo #2 --->
-  <a align="left" href="https://github.com/Rachit-Pal/NekoMusic" title="Telegram VC Bot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit-Pal&repo=NekoMusic&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <!--- Repo #3 --->
-  <a align="left" href="https://github.com/Rachit-Pal/YorForger" title="Telegram group management bot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit-Pal&repo=YorForger&theme=react&border_color=61dafb&border_radius=10"></a>
+
   <!--- Repo #4 --->
   <a align="right" href="https://github.com/Rachit-Pal/AlbedoBot" title="Anime themed group management bot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akbarlucu&repo=garuda-project&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
@@ -114,7 +106,7 @@
 <!--- S H O W   M O R E --->
 
 <h4 align="center">
-  <a href="https://github.com/Rachit-Pal?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/akbarlucu?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 <br>
