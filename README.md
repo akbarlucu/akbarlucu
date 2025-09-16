@@ -67,14 +67,14 @@
 <h2 align="center">💾 REPOSITORIES 💾</h2>
 <br>
 <div width="100%" align="center">
-<!--- Repo #1 --->
+<!--- Repo #1 
   <a align="right" href="https://github.com/akbarlucu/NekoRobot" title="Powerful telegram group management bot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit-Pal&repo=NekoRobot&theme=react&border_color=61dafb&border_radius=10"></a>
-  <!--- Repo #2 --->
+  <!--- Repo #2 
   <a align="left" href="https://github.com/Rachit-Pal/NekoMusic" title="Telegram VC Bot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akbarlucu&repo=NekoMusic&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <!--- Repo #3 --->
+  <!--- Repo #3 
   <a align="left" href="https://github.com/Rachit-Pal/YorForger" title="Telegram group management bot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akbarlucu&repo=YorForger&theme=react&border_color=61dafb&border_radius=10"></a>
 
   <!--- Repo #4 --->
