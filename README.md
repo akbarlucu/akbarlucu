@@ -1,105 +1,807 @@
-<!--- P R O F I L E   V I E W S   C O U N T E R S --->
-
-<img align="right" src="https://komarev.com/ghpvc/?username=akbarlucu&label=Profile%20views&color=0e75b6&style=flat"><br>
-
-
-<!--- P R O F I L E   B A N N E R 
-
-<h1 align="center">
-  <img src="https://telegra.ph/file/c3211f5624cd36cbdae9c.jpg">
-</h1>
---->
-
-<!--- A N I M A T E D   T E X T --->
-
-<h1 align="center">  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=18AFFF&center=true&vCenter=true&width=435&height=50&lines=Hey+Fellas!;Myself+akbarlucu!"/>
-  </a>
-</h1>
-
-
-<!--- A B O U T   M E --->
-
-<h4 align="center">
-    ⚜️ A Web Developer, Learner and a Gamer from Indonesia ⚜️<br>
-    🎓 Doing my Bachelors from <a href="https://unitomo.ac.id/">Universitas Dr. Soetomo Surabaya</a> 🎓<br>
-</h4>
-
-
-<!--- S O C I A L   M E D I A   B A D G E S --->
-
-<div align="center">
-    <a href="https://t.me/Saltam4" target="_blank"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=Telegram&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/rachmadrizqi_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:rachmadrizqiakbarsyah@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/megumi1404" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-</div>
-<hr> <!--- <hr> tag is use for Horizontal Lines --->
-
-
-<!--- G I T H U B   C O N T R I B U T I O N   G R A P H --->
-
-
-
-<h2 align="center">〽️ STATISTICS 〽️</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <!-- S t r e a k 
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source"><img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=akbarlucu&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" /></a>-->
-    <!-- Commit and Stars -->
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=akbarlucu&show_icons=true&count_private=true&theme=react&border_color=61dafb&hide_border=true"/></a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <!-- most used language -->
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarlucu&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></a>
-  </div>
-</p>
-
-<br>
-<hr>
-
-
-<!--- M Y   T O P   R E P O --->
-
-<h2 align="center">💾 REPOSITORIES 💾</h2>
-<br>
-<div width="100%" align="center">
-<!--- Repo #1 
-  <a align="right" href="https://github.com/akbarlucu/NekoRobot" title="Powerful telegram group management bot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit-Pal&repo=NekoRobot&theme=react&border_color=61dafb&border_radius=10"></a>
-  <!--- Repo #2 
-  <a align="left" href="https://github.com/Rachit-Pal/NekoMusic" title="Telegram VC Bot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akbarlucu&repo=NekoMusic&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <!--- Repo #3 
-  <a align="left" href="https://github.com/Rachit-Pal/YorForger" title="Telegram group management bot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akbarlucu&repo=YorForger&theme=react&border_color=61dafb&border_radius=10"></a>
-
-  <!--- Repo #4 --->
-  <a align="right" href="https://github.com/Rachit-Pal/AlbedoBot" title="Anime themed group management bot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akbarlucu&repo=garuda-project&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-
-<br><br><br><br><br><br>
-
-
-<!--- S H O W   M O R E --->
-
-<h4 align="center">
-  <a href="https://github.com/akbarlucu?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-
-<br>
-<br>
-
-<!--- G R E E T I N G   T E X T   A N D   I M A G E --->
-
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!">
-    </a>
-</div>
-
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/footer.png"></div>
+![readmebox](https://github.com/user-attachments/assets/0e25dbbf-f794-47a5-95f6-2e6453872ef6)
+<svg fill="none" viewBox="0 0 837 221" width="837" xmlns="http://www.w3.org/2000/svg"><foreignObject width="837px" height="100%"><style xmlns="http://www.w3.org/1999/xhtml">
+              .container {
+                width: 837px;
+                height: 221px;
+                position: relative;
+              }
+              .bg {
+                position: absolute;
+                top: 0;
+                left: 0;
+                display: flex;
+                flex-direction: column;
+                gap: 3px;
+                background: #0d1117;
+              }
+              .bg .line {
+                display: flex;
+                gap: 3px;
+              }
+              .bg span {
+                width: 11px;
+                height: 11px;
+                background: #161b22;
+                border-radius: 2px;
+              }
+              .char-container {
+                display: flex;
+                flex-direction: column;
+                gap: 3px;
+              }
+              .char-container .line {
+                display: flex;
+                gap: 3px;
+              }
+              .char-container .line .box {
+                width: 11px;
+                height: 11px;
+                border-radius: 2px;
+              }
+              .char-container .line .box.active {
+                background: #3aad52;
+              }
+              .content {
+                width: 100%;
+                height: 100%;
+                position: relative;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                z-index: 1;
+              }
+              .content .blank {
+                width: 11px;
+              }
+              .content .slide {
+                width: 100%;
+                height: 100%;
+                position: fixed;
+                top: 0;
+                left: 0;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                gap: 3px;
+              }
+              .content .slide.slide-1 {
+                animation: anim-slide-1 8s infinite;
+              }
+              @keyframes anim-slide-1 {
+                0%, 40%, 100% {
+                  transform: scale(0.2) translateY(40px);
+                }
+                4%, 16% {
+                  transform: scale(1) translateY(0);
+                }
+                16% {
+                  opacity: 1;
+                }
+                20%, 100% {
+                  opacity: 0;
+                }
+              }
+              .content .slide.slide-2 {
+                opacity: 0;
+                animation: anim-slide-2 8s infinite;
+              }
+              @keyframes anim-slide-2 {
+                0%, 20%, 100% {
+                  transform: scale(0.2) translateY(40px);
+                  opacity: 0;
+                }
+                24%, 36% {
+                  transform: scale(1) translateY(0);
+                }
+                36% {
+                  opacity: 1;
+                }
+                40%, 100% {
+                  opacity: 0;
+                }
+                60% {
+                  transform: scale(0.2) translateY(40px);
+                }
+              }
+              .content .slide.slide-3 {
+                opacity: 0;
+                animation: anim-slide-3 8s infinite;
+              }
+              @keyframes anim-slide-3 {
+                0%, 40%, 72%, 100% {
+                  opacity: 0;
+                }
+                44%, 68% {
+                  opacity: 1;
+                }
+              }
+              .content .slide.slide-4 {
+                opacity: 0;
+                animation: anim-slide-4 8s infinite;
+              }
+              @keyframes anim-slide-4 {
+                0%, 72%, 92%, 100% {
+                  opacity: 0;
+                }
+                76%, 88% {
+                  opacity: 1;
+                }
+              }
+              </style><div xmlns="http://www.w3.org/1999/xhtml" class="container"><div class="bg"><div class="line"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div></div><div class="content"><div class="slide slide-1"><div class="char-container"><div class="line"><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span></div></div><div class="char-container"><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div></div><div class="char-container"><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div></div></div><div class="slide slide-2"><div class="char-container"><div class="line"><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box"></span><span class="box"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span></div></div><div class="char-container"><div class="line"><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span></div></div><div class="char-container"><div class="line"><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span></div></div><div class="char-container"><div class="line"><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div></div><div class="char-container"><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span></div><div class="line"><span class="box"></span><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box"></span><span class="box"></span><span class="box"></span></div></div></div><div class="slide slide-3"><style>
+				.clip-container {
+					width: 445px;
+					height: 221px;
+					display: flex;
+					gap: 3px;
+				}
+				.clip-container .cat-wrapper {
+					width: 221px;
+					height: 221px;
+					display: flex;
+				}
+        .clip-container .cat-wrapper .move {
+					display: flex;
+					flex-direction: column;
+					gap: 3px;
+				}
+				.clip-container .cat-wrapper .move .line {
+					display: flex;
+					gap: 3px;
+				}
+				.clip-container .cat-wrapper .move .line span {
+					width: 11px;
+					height: 11px;
+					border-radius: 2px;
+				}
+				.clip-container .cat-wrapper .move .line span:hover {
+					opacity: 0.2;
+				}
+				.move-1, .move-2, .move-3, .move-4, .move-5 {
+					width: 0;
+				}
+				.cat-1 .move-1 {
+					animation: move-1 0.6s infinite;
+				}
+				.cat-2 .move-1 {
+					animation: move-2 0.6s infinite;
+				}
+				.cat-1 .move-2 {
+					animation: move-2 0.6s infinite;
+				}
+				.cat-2 .move-2 {
+					animation: move-3 0.6s infinite;
+				}
+				.cat-1 .move-3 {
+					animation: move-3 0.6s infinite;
+				}
+				.cat-2 .move-3 {
+					animation: move-4 0.6s infinite;
+				}
+				.cat-1 .move-4 {
+					animation: move-4 0.6s infinite;
+				}
+				.cat-2 .move-4 {
+					animation: move-5 0.6s infinite;
+				}
+				.cat-1 .move-5 {
+					animation: move-5 0.6s infinite;
+				}
+				.cat-2 .move-5 {
+					animation: move-1 0.6s infinite;
+				}
+				@keyframes move-1 {
+					0%, 20% {
+						width: 480px;
+					}
+					20.01%, 100% {
+						width: 0;
+					}
+				}
+				@keyframes move-2 {
+					0%, 20%, 40.01%, 100% {
+						width: 0;
+					}
+					20.01%, 40% {
+						width: 480px;
+					}
+				}
+				@keyframes move-3 {
+					0%, 40%, 60.01%, 100% {
+						width: 0;
+					}
+					40.01%, 60% {
+						width: 480px;
+					}
+				}
+				@keyframes move-4 {
+					0%, 60%, 80.01%, 100% {
+						width: 0;
+					}
+					60.01%, 80% {
+						width: 480px;
+					}
+				}
+				@keyframes move-5 {
+					0%, 80% {
+						width: 0;
+					}
+					80.01%, 100% {
+						width: 480px;
+					}
+				}
+				.move-1 .line-3 span:nth-child(6),
+				.move-1 .line-3 span:nth-child(10), 
+				.move-1 .line-4 span:nth-child(5),
+				.move-1 .line-4 span:nth-child(6),
+				.move-1 .line-4 span:nth-child(7),
+				.move-1 .line-4 span:nth-child(8),
+				.move-1 .line-4 span:nth-child(9),
+				.move-1 .line-4 span:nth-child(10),
+				.move-1 .line-4 span:nth-child(11),
+				.move-1 .line-5 span:nth-child(4),
+				.move-1 .line-5 span:nth-child(5),
+				.move-1 .line-5 span:nth-child(6),
+				.move-1 .line-5 span:nth-child(7),
+				.move-1 .line-5 span:nth-child(8),
+				.move-1 .line-5 span:nth-child(9),
+				.move-1 .line-5 span:nth-child(10),
+				.move-1 .line-5 span:nth-child(11),
+				.move-1 .line-5 span:nth-child(12),
+				.move-1 .line-5 span:nth-child(14),
+				.move-1 .line-6 span:nth-child(1),
+				.move-1 .line-6 span:nth-child(3),
+				.move-1 .line-6 span:nth-child(4),
+				.move-1 .line-6 span:nth-child(11),
+				.move-1 .line-6 span:nth-child(12),
+				.move-1 .line-6 span:nth-child(13),
+				.move-1 .line-7 span:nth-child(2),
+				.move-1 .line-7 span:nth-child(3),
+				.move-1 .line-7 span:nth-child(12),
+				.move-1 .line-8 span:nth-child(3),
+				.move-1 .line-8 span:nth-child(12),
+				.move-1 .line-8 span:nth-child(13),
+				.move-1 .line-9 span:nth-child(2),
+				.move-1 .line-9 span:nth-child(3),
+				.move-1 .line-9 span:nth-child(4),
+				.move-1 .line-9 span:nth-child(11),
+				.move-1 .line-9 span:nth-child(12),
+				.move-1 .line-9 span:nth-child(14),
+				.move-1 .line-10 span:nth-child(1),
+				.move-1 .line-10 span:nth-child(5),
+				.move-1 .line-10 span:nth-child(6),
+				.move-1 .line-10 span:nth-child(7),
+				.move-1 .line-10 span:nth-child(8),
+				.move-1 .line-10 span:nth-child(9),
+				.move-1 .line-10 span:nth-child(10),
+				.move-1 .line-10 span:nth-child(11),
+				.move-1 .line-11 span:nth-child(5),
+				.move-1 .line-11 span:nth-child(6),
+				.move-1 .line-11 span:nth-child(7),
+				.move-1 .line-11 span:nth-child(8),
+				.move-1 .line-11 span:nth-child(9),
+				.move-1 .line-11 span:nth-child(10),
+				.move-1 .line-11 span:nth-child(11),
+				.move-1 .line-11 span:nth-child(12),
+				.move-1 .line-12 span:nth-child(5),
+				.move-1 .line-12 span:nth-child(7),
+				.move-1 .line-12 span:nth-child(8),
+				.move-1 .line-12 span:nth-child(9),
+				.move-1 .line-12 span:nth-child(10),
+				.move-1 .line-12 span:nth-child(11),
+				.move-1 .line-12 span:nth-child(12),
+				.move-1 .line-13 span:nth-child(7),
+				.move-1 .line-13 span:nth-child(8),
+				.move-1 .line-13 span:nth-child(9),
+				.move-1 .line-13 span:nth-child(10),
+				.move-1 .line-13 span:nth-child(11),
+				.move-1 .line-13 span:nth-child(12),
+				.move-1 .line-14 span:nth-child(7),
+				.move-1 .line-14 span:nth-child(9),	
+				.move-1 .line-14 span:nth-child(11),
+				.move-2 .line-3 span:nth-child(6),
+				.move-2 .line-3 span:nth-child(11),
+				.move-2 .line-4 span:nth-child(6),
+				.move-2 .line-4 span:nth-child(7),
+				.move-2 .line-4 span:nth-child(8),
+				.move-2 .line-4 span:nth-child(10),
+				.move-2 .line-4 span:nth-child(11),
+				.move-2 .line-4 span:nth-child(12),
+				.move-2 .line-5 span:nth-child(5),
+				.move-2 .line-5 span:nth-child(6),
+				.move-2 .line-5 span:nth-child(7),
+				.move-2 .line-5 span:nth-child(8),
+				.move-2 .line-5 span:nth-child(9),
+				.move-2 .line-5 span:nth-child(10),
+				.move-2 .line-5 span:nth-child(11),
+				.move-2 .line-5 span:nth-child(12),
+				.move-2 .line-6 span:nth-child(5),
+				.move-2 .line-6 span:nth-child(11),
+				.move-2 .line-6 span:nth-child(12),
+				.move-2 .line-6 span:nth-child(13),
+				.move-2 .line-7 span:nth-child(2),
+				.move-2 .line-7 span:nth-child(5),
+				.move-2 .line-7 span:nth-child(12),
+				.move-2 .line-7 span:nth-child(13),
+				.move-2 .line-7 span:nth-child(15),
+				.move-2 .line-8 span:nth-child(3),
+				.move-2 .line-8 span:nth-child(4),
+				.move-2 .line-8 span:nth-child(13),
+				.move-2 .line-8 span:nth-child(14),
+				.move-2 .line-9 span:nth-child(4),
+				.move-2 .line-9 span:nth-child(5),
+				.move-2 .line-9 span:nth-child(12),
+				.move-2 .line-9 span:nth-child(13),
+				.move-2 .line-10 span:nth-child(4),
+				.move-2 .line-10 span:nth-child(5),
+				.move-2 .line-10 span:nth-child(6),
+				.move-2 .line-10 span:nth-child(7),
+				.move-2 .line-10 span:nth-child(8),
+				.move-2 .line-10 span:nth-child(9),
+				.move-2 .line-10 span:nth-child(10),
+				.move-2 .line-10 span:nth-child(11),
+				.move-2 .line-10 span:nth-child(12),
+				.move-2 .line-10 span:nth-child(13),
+				.move-2 .line-10 span:nth-child(14),
+				.move-2 .line-11 span:nth-child(3),
+				.move-2 .line-11 span:nth-child(5),
+				.move-2 .line-11 span:nth-child(6),
+				.move-2 .line-11 span:nth-child(7),
+				.move-2 .line-11 span:nth-child(8),
+				.move-2 .line-11 span:nth-child(9),
+				.move-2 .line-11 span:nth-child(10),
+				.move-2 .line-11 span:nth-child(11),
+				.move-2 .line-11 span:nth-child(12),
+				.move-2 .line-11 span:nth-child(13),
+				.move-2 .line-11 span:nth-child(15),
+				.move-2 .line-12 span:nth-child(5),
+				.move-2 .line-12 span:nth-child(6),
+				.move-2 .line-12 span:nth-child(7),
+				.move-2 .line-12 span:nth-child(8),
+				.move-2 .line-12 span:nth-child(9),
+				.move-2 .line-12 span:nth-child(10),
+				.move-2 .line-12 span:nth-child(11),
+				.move-2 .line-12 span:nth-child(12),
+				.move-2 .line-12 span:nth-child(13),
+				.move-2 .line-13 span:nth-child(6),
+				.move-2 .line-13 span:nth-child(7),
+				.move-2 .line-13 span:nth-child(8),
+				.move-2 .line-13 span:nth-child(9),
+				.move-2 .line-13 span:nth-child(10),
+				.move-2 .line-13 span:nth-child(11),
+				.move-2 .line-13 span:nth-child(13),
+				.move-3 .line-1 span:nth-child(7),
+				.move-3 .line-1 span:nth-child(11),
+				.move-3 .line-2 span:nth-child(7),
+				.move-3 .line-2 span:nth-child(8),
+				.move-3 .line-2 span:nth-child(10),
+				.move-3 .line-2 span:nth-child(11),
+				.move-3 .line-2 span:nth-child(12),
+				.move-3 .line-3 span:nth-child(6),
+				.move-3 .line-3 span:nth-child(7),
+				.move-3 .line-3 span:nth-child(8),
+				.move-3 .line-3 span:nth-child(9),
+				.move-3 .line-3 span:nth-child(10),
+				.move-3 .line-3 span:nth-child(11),
+				.move-3 .line-3 span:nth-child(12),
+				.move-3 .line-4 span:nth-child(6),
+				.move-3 .line-4 span:nth-child(7),
+				.move-3 .line-4 span:nth-child(10),
+				.move-3 .line-4 span:nth-child(11),
+				.move-3 .line-4 span:nth-child(12),
+				.move-3 .line-4 span:nth-child(13),
+				.move-3 .line-5 span:nth-child(6),
+				.move-3 .line-5 span:nth-child(12),
+				.move-3 .line-5 span:nth-child(13),
+				.move-3 .line-5 span:nth-child(15),
+				.move-3 .line-6 span:nth-child(5),
+				.move-3 .line-6 span:nth-child(6),
+				.move-3 .line-6 span:nth-child(13),
+				.move-3 .line-6 span:nth-child(14),
+				.move-3 .line-7 span:nth-child(3),
+				.move-3 .line-7 span:nth-child(5),
+				.move-3 .line-7 span:nth-child(13),
+				.move-3 .line-8 span:nth-child(4),
+				.move-3 .line-8 span:nth-child(5),
+				.move-3 .line-8 span:nth-child(12),
+				.move-3 .line-8 span:nth-child(13),
+				.move-3 .line-8 span:nth-child(14),
+				.move-3 .line-9 span:nth-child(5),
+				.move-3 .line-9 span:nth-child(6),
+				.move-3 .line-9 span:nth-child(11),
+				.move-3 .line-9 span:nth-child(12),
+				.move-3 .line-9 span:nth-child(13),
+				.move-3 .line-9 span:nth-child(15),
+				.move-3 .line-10 span:nth-child(4),
+				.move-3 .line-10 span:nth-child(8),
+				.move-3 .line-10 span:nth-child(9),
+				.move-3 .line-10 span:nth-child(10),
+				.move-3 .line-10 span:nth-child(11),
+				.move-3 .line-10 span:nth-child(12),
+				.move-3 .line-11 span:nth-child(8),
+				.move-3 .line-11 span:nth-child(9),
+				.move-3 .line-11 span:nth-child(10),
+				.move-3 .line-11 span:nth-child(11),
+				.move-3 .line-11 span:nth-child(12),
+				.move-3 .line-12 span:nth-child(9),
+				.move-3 .line-12 span:nth-child(10),
+				.move-3 .line-12 span:nth-child(11),
+				.move-3 .line-12 span:nth-child(12),
+				.move-3 .line-13 span:nth-child(9),
+				.move-3 .line-13 span:nth-child(10),
+				.move-3 .line-13 span:nth-child(11),
+				.move-3 .line-13 span:nth-child(12),
+				.move-3 .line-14 span:nth-child(10),
+				.move-3 .line-14 span:nth-child(11),
+				.move-4 .line-1 span:nth-child(7),
+				.move-4 .line-1 span:nth-child(8),
+				.move-4 .line-1 span:nth-child(11),
+				.move-4 .line-1 span:nth-child(12),
+				.move-4 .line-2 span:nth-child(6),
+				.move-4 .line-2 span:nth-child(7),
+				.move-4 .line-2 span:nth-child(8),
+				.move-4 .line-2 span:nth-child(9),
+				.move-4 .line-2 span:nth-child(10),
+				.move-4 .line-2 span:nth-child(11),
+				.move-4 .line-2 span:nth-child(12),
+				.move-4 .line-3 span:nth-child(6),
+				.move-4 .line-3 span:nth-child(7),
+				.move-4 .line-3 span:nth-child(8),
+				.move-4 .line-3 span:nth-child(9),
+				.move-4 .line-3 span:nth-child(10),
+				.move-4 .line-3 span:nth-child(11),
+				.move-4 .line-3 span:nth-child(12),
+				.move-4 .line-3 span:nth-child(13),
+				.move-4 .line-4 span:nth-child(6),
+				.move-4 .line-4 span:nth-child(12),
+				.move-4 .line-4 span:nth-child(13),
+				.move-4 .line-5 span:nth-child(3),
+				.move-4 .line-5 span:nth-child(5),
+				.move-4 .line-5 span:nth-child(13),
+				.move-4 .line-5 span:nth-child(14),
+				.move-4 .line-5 span:nth-child(16),
+				.move-4 .line-6 span:nth-child(4),
+				.move-4 .line-6 span:nth-child(5),
+				.move-4 .line-6 span:nth-child(13),
+				.move-4 .line-6 span:nth-child(14),
+				.move-4 .line-6 span:nth-child(15),
+				.move-4 .line-7 span:nth-child(5),
+				.move-4 .line-7 span:nth-child(13),
+				.move-4 .line-7 span:nth-child(14),
+				.move-4 .line-8 span:nth-child(5),
+				.move-4 .line-8 span:nth-child(6),
+				.move-4 .line-8 span:nth-child(11),
+				.move-4 .line-8 span:nth-child(12),
+				.move-4 .line-8 span:nth-child(13),
+				.move-4 .line-9 span:nth-child(4),
+				.move-4 .line-9 span:nth-child(8),
+				.move-4 .line-9 span:nth-child(9),
+				.move-4 .line-9 span:nth-child(10),
+				.move-4 .line-9 span:nth-child(11),
+				.move-4 .line-9 span:nth-child(15),
+				.move-4 .line-10 span:nth-child(8),
+				.move-4 .line-10 span:nth-child(9),
+				.move-4 .line-10 span:nth-child(10),
+				.move-4 .line-10 span:nth-child(11),
+				.move-4 .line-10 span:nth-child(12),
+				.move-4 .line-11 span:nth-child(8),
+				.move-4 .line-11 span:nth-child(9),
+				.move-4 .line-11 span:nth-child(10),
+				.move-4 .line-11 span:nth-child(11),
+				.move-4 .line-11 span:nth-child(12),
+				.move-4 .line-12 span:nth-child(9),
+				.move-4 .line-12 span:nth-child(10),
+				.move-4 .line-12 span:nth-child(11),
+				.move-4 .line-12 span:nth-child(12),
+				.move-4 .line-13 span:nth-child(10),
+				.move-4 .line-13 span:nth-child(11),
+				.move-5 .line-2 span:nth-child(6),
+				.move-5 .line-2 span:nth-child(10),
+				.move-5 .line-3 span:nth-child(5),
+				.move-5 .line-3 span:nth-child(6),
+				.move-5 .line-3 span:nth-child(7),
+				.move-5 .line-3 span:nth-child(9),
+				.move-5 .line-3 span:nth-child(10),
+				.move-5 .line-3 span:nth-child(11),
+				.move-5 .line-4 span:nth-child(5),
+				.move-5 .line-4 span:nth-child(6),
+				.move-5 .line-4 span:nth-child(7),
+				.move-5 .line-4 span:nth-child(8),
+				.move-5 .line-4 span:nth-child(9),
+				.move-5 .line-4 span:nth-child(10),
+				.move-5 .line-4 span:nth-child(11),
+				.move-5 .line-5 span:nth-child(4),
+				.move-5 .line-5 span:nth-child(5),
+				.move-5 .line-5 span:nth-child(6),
+				.move-5 .line-5 span:nth-child(9),
+				.move-5 .line-5 span:nth-child(10),
+				.move-5 .line-5 span:nth-child(11),
+				.move-5 .line-5 span:nth-child(12),
+				.move-5 .line-5 span:nth-child(14),
+				.move-5 .line-6 span:nth-child(2),
+				.move-5 .line-6 span:nth-child(4),
+				.move-5 .line-6 span:nth-child(5),
+				.move-5 .line-6 span:nth-child(11),
+				.move-5 .line-6 span:nth-child(12),
+				.move-5 .line-6 span:nth-child(13),
+				.move-5 .line-7 span:nth-child(3),
+				.move-5 .line-7 span:nth-child(4),
+				.move-5 .line-7 span:nth-child(11),
+				.move-5 .line-7 span:nth-child(12),
+				.move-5 .line-8 span:nth-child(4),
+				.move-5 .line-8 span:nth-child(11),
+				.move-5 .line-8 span:nth-child(12),
+				.move-5 .line-8 span:nth-child(13),
+				.move-5 .line-9 span:nth-child(3),
+				.move-5 .line-9 span:nth-child(5),
+				.move-5 .line-9 span:nth-child(10),
+				.move-5 .line-9 span:nth-child(11),
+				.move-5 .line-9 span:nth-child(14),
+				.move-5 .line-10 span:nth-child(2),
+				.move-5 .line-10 span:nth-child(6),
+				.move-5 .line-10 span:nth-child(7),
+				.move-5 .line-10 span:nth-child(8),
+				.move-5 .line-10 span:nth-child(9),
+				.move-5 .line-10 span:nth-child(10),
+				.move-5 .line-10 span:nth-child(11),
+				.move-5 .line-11 span:nth-child(6),
+				.move-5 .line-11 span:nth-child(7),
+				.move-5 .line-11 span:nth-child(8),
+				.move-5 .line-11 span:nth-child(9),
+				.move-5 .line-11 span:nth-child(10),
+				.move-5 .line-11 span:nth-child(11),
+				.move-5 .line-11 span:nth-child(12),
+				.move-5 .line-12 span:nth-child(6),
+				.move-5 .line-12 span:nth-child(7),
+				.move-5 .line-12 span:nth-child(8),
+				.move-5 .line-12 span:nth-child(9),
+				.move-5 .line-12 span:nth-child(10),
+				.move-5 .line-12 span:nth-child(11),
+				.move-5 .line-12 span:nth-child(12),
+				.move-5 .line-13 span:nth-child(6),
+				.move-5 .line-13 span:nth-child(8),
+				.move-5 .line-13 span:nth-child(10),
+				.move-5 .line-13 span:nth-child(12) {
+					background: #00603c;
+				}
+				.move-1 .line-6 span:nth-child(5),
+				.move-1 .line-6 span:nth-child(6),
+				.move-1 .line-6 span:nth-child(7),
+				.move-1 .line-6 span:nth-child(8),
+				.move-1 .line-6 span:nth-child(9),
+				.move-1 .line-6 span:nth-child(10),
+				.move-1 .line-7 span:nth-child(4),
+				.move-1 .line-7 span:nth-child(5),
+				.move-1 .line-7 span:nth-child(7),
+				.move-1 .line-7 span:nth-child(8),
+				.move-1 .line-7 span:nth-child(10),
+				.move-1 .line-7 span:nth-child(11),
+				.move-1 .line-8 span:nth-child(4),
+				.move-1 .line-8 span:nth-child(5),
+				.move-1 .line-8 span:nth-child(6),
+				.move-1 .line-8 span:nth-child(9),
+				.move-1 .line-8 span:nth-child(10),
+				.move-1 .line-8 span:nth-child(11),
+				.move-1 .line-9 span:nth-child(5),
+				.move-1 .line-9 span:nth-child(6),
+				.move-1 .line-9 span:nth-child(7),
+				.move-1 .line-9 span:nth-child(8),
+				.move-1 .line-9 span:nth-child(9),
+				.move-1 .line-9 span:nth-child(10),
+				.move-2 .line-6 span:nth-child(6),
+				.move-2 .line-6 span:nth-child(7),
+				.move-2 .line-6 span:nth-child(8),
+				.move-2 .line-6 span:nth-child(9),
+				.move-2 .line-6 span:nth-child(10),
+				.move-2 .line-7 span:nth-child(6),
+				.move-2 .line-7 span:nth-child(8),
+				.move-2 .line-7 span:nth-child(9),
+				.move-2 .line-7 span:nth-child(11),
+				.move-2 .line-8 span:nth-child(5),
+				.move-2 .line-8 span:nth-child(6),
+				.move-2 .line-8 span:nth-child(7),
+				.move-2 .line-8 span:nth-child(10),
+				.move-2 .line-8 span:nth-child(11),
+				.move-2 .line-8 span:nth-child(12),
+				.move-2 .line-9 span:nth-child(6),
+				.move-2 .line-9 span:nth-child(7),
+				.move-2 .line-9 span:nth-child(8),
+				.move-2 .line-9 span:nth-child(9),
+				.move-2 .line-9 span:nth-child(10),
+				.move-2 .line-9 span:nth-child(11),
+				.move-3 .line-4 span:nth-child(8),
+				.move-3 .line-4 span:nth-child(9),
+				.move-3 .line-5 span:nth-child(7),
+				.move-3 .line-5 span:nth-child(8),
+				.move-3 .line-5 span:nth-child(9),
+				.move-3 .line-5 span:nth-child(10),
+				.move-3 .line-5 span:nth-child(11),
+				.move-3 .line-6 span:nth-child(8),
+				.move-3 .line-6 span:nth-child(9),
+				.move-3 .line-6 span:nth-child(11),
+				.move-3 .line-6 span:nth-child(12),
+				.move-3 .line-7 span:nth-child(6),
+				.move-3 .line-7 span:nth-child(7),
+				.move-3 .line-7 span:nth-child(10),
+				.move-3 .line-7 span:nth-child(11),
+				.move-3 .line-7 span:nth-child(12),
+				.move-3 .line-8 span:nth-child(6),
+				.move-3 .line-8 span:nth-child(7),
+				.move-3 .line-8 span:nth-child(8),
+				.move-3 .line-8 span:nth-child(9),
+				.move-3 .line-8 span:nth-child(10),
+				.move-3 .line-8 span:nth-child(11),
+				.move-3 .line-9 span:nth-child(7),
+				.move-3 .line-9 span:nth-child(8),
+				.move-3 .line-9 span:nth-child(9),
+				.move-3 .line-9 span:nth-child(10),
+				.move-4 .line-4 span:nth-child(7),
+				.move-4 .line-4 span:nth-child(8),
+				.move-4 .line-4 span:nth-child(9),
+				.move-4 .line-4 span:nth-child(10),
+				.move-4 .line-4 span:nth-child(11),
+				.move-4 .line-5 span:nth-child(6),
+				.move-4 .line-5 span:nth-child(8),
+				.move-4 .line-5 span:nth-child(9),
+				.move-4 .line-5 span:nth-child(11),
+				.move-4 .line-5 span:nth-child(12),
+				.move-4 .line-6 span:nth-child(6),
+				.move-4 .line-6 span:nth-child(7),
+				.move-4 .line-6 span:nth-child(10),
+				.move-4 .line-6 span:nth-child(11),
+				.move-4 .line-6 span:nth-child(12),
+				.move-4 .line-7 span:nth-child(6),
+				.move-4 .line-7 span:nth-child(7),
+				.move-4 .line-7 span:nth-child(8),
+				.move-4 .line-7 span:nth-child(10),
+				.move-4 .line-7 span:nth-child(11),
+				.move-4 .line-7 span:nth-child(12),
+				.move-4 .line-8 span:nth-child(7),
+				.move-4 .line-8 span:nth-child(8),
+				.move-4 .line-8 span:nth-child(9),
+				.move-4 .line-8 span:nth-child(10),
+				.move-5 .line-5 span:nth-child(7),
+				.move-5 .line-5 span:nth-child(8),
+				.move-5 .line-6 span:nth-child(6),
+				.move-5 .line-6 span:nth-child(7),
+				.move-5 .line-6 span:nth-child(8),
+				.move-5 .line-6 span:nth-child(9),
+				.move-5 .line-6 span:nth-child(10),
+				.move-5 .line-7 span:nth-child(5),
+				.move-5 .line-7 span:nth-child(7),
+				.move-5 .line-7 span:nth-child(8),
+				.move-5 .line-7 span:nth-child(10),
+				.move-5 .line-8 span:nth-child(5),
+				.move-5 .line-8 span:nth-child(6),
+				.move-5 .line-8 span:nth-child(9),
+				.move-5 .line-8 span:nth-child(10),
+				.move-5 .line-9 span:nth-child(6),
+				.move-5 .line-9 span:nth-child(7),
+				.move-5 .line-9 span:nth-child(8),
+				.move-5 .line-9 span:nth-child(9) {
+					background: #3aad52;
+				}
+				.move-1 .line-7 span:nth-child(6),
+				.move-1 .line-7 span:nth-child(9),
+				.move-1 .line-8 span:nth-child(7),
+				.move-1 .line-8 span:nth-child(8),
+				.move-2 .line-7 span:nth-child(7),
+				.move-2 .line-7 span:nth-child(10),
+				.move-2 .line-8 span:nth-child(8),
+				.move-2 .line-8 span:nth-child(9),
+				.move-3 .line-6 span:nth-child(7),
+				.move-3 .line-6 span:nth-child(10),
+				.move-3 .line-7 span:nth-child(8),
+				.move-3 .line-7 span:nth-child(9),
+				.move-4 .line-5 span:nth-child(7),
+				.move-4 .line-5 span:nth-child(10),
+				.move-4 .line-6 span:nth-child(8),
+				.move-4 .line-6 span:nth-child(9),
+				.move-4 .line-7 span:nth-child(9),
+				.move-5 .line-7 span:nth-child(6),
+				.move-5 .line-7 span:nth-child(9),
+				.move-5 .line-8 span:nth-child(7),
+				.move-5 .line-8 span:nth-child(8) {
+					background: #1b4332;
+				}
+        </style><div class="clip-container"><div class="cat-wrapper cat-1"><div class="move move-1"><div class="line line-1"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-2"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-3"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-4"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-5"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-6"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-7"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-8"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-9"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-10"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-11"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-12"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-13"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-14"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-15"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-16"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div></div><div class="move move-2"><div class="line line-1"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-2"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-3"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-4"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-5"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-6"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-7"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-8"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-9"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-10"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-11"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-12"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-13"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-14"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-15"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-16"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div></div><div class="move move-3"><div class="line line-1"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-2"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-3"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-4"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-5"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-6"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-7"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-8"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-9"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-10"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-11"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-12"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-13"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-14"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-15"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-16"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div></div><div class="move move-4"><div class="line line-1"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-2"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-3"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-4"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-5"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-6"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-7"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-8"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-9"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-10"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-11"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-12"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-13"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-14"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-15"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-16"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div></div><div class="move move-5"><div class="line line-1"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-2"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-3"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-4"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-5"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-6"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-7"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-8"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-9"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-10"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-11"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-12"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-13"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-14"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-15"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-16"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div></div></div><div class="cat-wrapper cat-2"><div class="move move-1"><div class="line line-1"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-2"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-3"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-4"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-5"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-6"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-7"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-8"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-9"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-10"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-11"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-12"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-13"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-14"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-15"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-16"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div></div><div class="move move-2"><div class="line line-1"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-2"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-3"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-4"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-5"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-6"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-7"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-8"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-9"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-10"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-11"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-12"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-13"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-14"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-15"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-16"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div></div><div class="move move-3"><div class="line line-1"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-2"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-3"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-4"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-5"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-6"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-7"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-8"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-9"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-10"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-11"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-12"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-13"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-14"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-15"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-16"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div></div><div class="move move-4"><div class="line line-1"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-2"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-3"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-4"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-5"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-6"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-7"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-8"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-9"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-10"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-11"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-12"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-13"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-14"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-15"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-16"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div></div><div class="move move-5"><div class="line line-1"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-2"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-3"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-4"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-5"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-6"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-7"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-8"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-9"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-10"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-11"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-12"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-13"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-14"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-15"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="line line-16"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div></div></div></div></div><div class="slide slide-4"><style>
+        .logo-clip-container {
+          width: 100%;
+          height: 100%;
+					position: relative;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+				}
+        .logo-clip-container .logo {
+          width: 109px;
+          height: 53px;
+          display: flex;
+          flex-direction: column;
+          gap: 3px;
+        }
+        .logo-clip-container .line {
+          display: flex;
+          gap: 3px;
+        }
+        .logo-clip-container .line .box {
+          width: 11px;
+          height: 11px;
+          background: #161b22;
+          border-radius: 2px;
+        }
+        .logo-clip-container .line .box.active {
+          background: #3aad52;
+        }
+        .logo-clip-container .line .box.active-1 {
+          background: #1b4332;
+        }
+        .logo-clip-container .line .box.active-2 {
+          background: #00603c;
+        }
+        .logo-clip-container .decoration {
+          width: 39px;
+          height: 39px;
+          position: absolute;
+          display: flex;
+          flex-direction: column;
+          gap: 3px;
+        }
+        .logo-clip-container .decoration.decoration-1 {
+          top: 28px;
+          left: 70px;
+        }
+        .logo-clip-container .decoration.decoration-2 {
+          bottom: 28px;
+          left: 182px;
+        }
+        .logo-clip-container .decoration.decoration-3 {
+          top: 28px;
+          right: 252px;
+        }
+        .logo-clip-container .decoration.decoration-4 {
+          bottom: 28px;
+          right: 154px;
+        }
+        .logo-clip-container .decoration.decoration-5 {
+          top: 28px;
+          right: 42px;
+        }
+        .logo-clip-container .decoration.decoration-1 .pattern-1,
+        .logo-clip-container .decoration.decoration-4 .pattern-1 {
+          animation: anim-pattern-1 0.6s infinite;
+        }
+        .logo-clip-container .decoration.decoration-2 .pattern-1,
+        .logo-clip-container .decoration.decoration-5 .pattern-1 {
+          animation: anim-pattern-1 0.6s 0.4s infinite;
+        }
+        .logo-clip-container .decoration.decoration-3 .pattern-1 {
+          animation: anim-pattern-1 0.6s 0.2s infinite;
+        }
+        @keyframes anim-pattern-1 {
+          0%, 50% {
+            opacity: 1;
+          }
+          51%, 100% {
+            opacity: 0;
+          }
+        }
+        .logo-clip-container .decoration.decoration-1 .pattern-2,
+        .logo-clip-container .decoration.decoration-4 .pattern-2 {
+          animation: anim-pattern-2 0.6s infinite;
+        }
+        .logo-clip-container .decoration.decoration-2 .pattern-2,
+        .logo-clip-container .decoration.decoration-5 .pattern-2 {
+          animation: anim-pattern-2 0.6s 0.4s infinite;
+        }
+        .logo-clip-container .decoration.decoration-3 .pattern-2 {
+          animation: anim-pattern-2 0.6s 0.2s infinite;
+        }
+        @keyframes anim-pattern-2 {
+          0%, 50% {
+            opacity: 0;
+          }
+          51%, 100% {
+            opacity: 1;
+          }
+        }
+        </style><div class="logo-clip-container"><div class="logo"><div class="line"><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box active-1"></span><span class="box active"></span><span class="box active"></span><span class="box active-1"></span><span class="box active"></span><span class="box active"></span></div><div class="line"><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active-1"></span><span class="box active-1"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span></div><div class="line"><span class="box"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box active"></span><span class="box"></span></div></div><div class="decoration decoration-1"><div class="decoration pattern-1"><div class="line"><span class="box"></span><span class="box active-2"></span><span class="box"></span></div><div class="line"><span class="box active-2"></span><span class="box active-2"></span><span class="box active-2"></span></div><div class="line"><span class="box"></span><span class="box active-2"></span><span class="box"></span></div></div><div class="decoration pattern-2"><div class="line"><span class="box active-2"></span><span class="box"></span><span class="box active-2"></span></div><div class="line"><span class="box"></span><span class="box active-2"></span><span class="box"></span></div><div class="line"><span class="box active-2"></span><span class="box"></span><span class="box active-2"></span></div></div></div><div class="decoration decoration-2"><div class="decoration pattern-1"><div class="line"><span class="box"></span><span class="box active-2"></span><span class="box"></span></div><div class="line"><span class="box active-2"></span><span class="box active-2"></span><span class="box active-2"></span></div><div class="line"><span class="box"></span><span class="box active-2"></span><span class="box"></span></div></div><div class="decoration pattern-2"><div class="line"><span class="box active-2"></span><span class="box"></span><span class="box active-2"></span></div><div class="line"><span class="box"></span><span class="box active-2"></span><span class="box"></span></div><div class="line"><span class="box active-2"></span><span class="box"></span><span class="box active-2"></span></div></div></div><div class="decoration decoration-3"><div class="decoration pattern-1"><div class="line"><span class="box"></span><span class="box active-2"></span><span class="box"></span></div><div class="line"><span class="box active-2"></span><span class="box active-2"></span><span class="box active-2"></span></div><div class="line"><span class="box"></span><span class="box active-2"></span><span class="box"></span></div></div><div class="decoration pattern-2"><div class="line"><span class="box active-2"></span><span class="box"></span><span class="box active-2"></span></div><div class="line"><span class="box"></span><span class="box active-2"></span><span class="box"></span></div><div class="line"><span class="box active-2"></span><span class="box"></span><span class="box active-2"></span></div></div></div><div class="decoration decoration-4"><div class="decoration pattern-1"><div class="line"><span class="box"></span><span class="box active-2"></span><span class="box"></span></div><div class="line"><span class="box active-2"></span><span class="box active-2"></span><span class="box active-2"></span></div><div class="line"><span class="box"></span><span class="box active-2"></span><span class="box"></span></div></div><div class="decoration pattern-2"><div class="line"><span class="box active-2"></span><span class="box"></span><span class="box active-2"></span></div><div class="line"><span class="box"></span><span class="box active-2"></span><span class="box"></span></div><div class="line"><span class="box active-2"></span><span class="box"></span><span class="box active-2"></span></div></div></div><div class="decoration decoration-5"><div class="decoration pattern-1"><div class="line"><span class="box"></span><span class="box active-2"></span><span class="box"></span></div><div class="line"><span class="box active-2"></span><span class="box active-2"></span><span class="box active-2"></span></div><div class="line"><span class="box"></span><span class="box active-2"></span><span class="box"></span></div></div><div class="decoration pattern-2"><div class="line"><span class="box active-2"></span><span class="box"></span><span class="box active-2"></span></div><div class="line"><span class="box"></span><span class="box active-2"></span><span class="box"></span></div><div class="line"><span class="box active-2"></span><span class="box"></span><span class="box active-2"></span></div></div></div></div></div></div></div></foreignObject></svg>
