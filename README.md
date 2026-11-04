@@ -4,15 +4,15 @@
   </a>
 </p>
 
-# 🗿 `@akbarlucu`
+# 🗿 `恵`
 
 ---
 
-### 🕳️ About the Creature
+### 🕳️ About me
 
 * 💻 **Dev Stack:** Mostly Go, Laravel, and whatever stack won't break my Linux setup today.
 * 🎨 **Side Quest:** Drawing anime/manga stuff when I'm not fighting memory leaks.
-* 🏋️ **Physical Status:** Trying to build a V-taper so I don't look like a classic desk goblin.
+* 🏋️ **Status:** Awake and Alive
 * 🛠️ **Random Traits:** Can fix code, build in-memory DBs, overhaul scooter engines, and do masonry work. Zero explanation provided.
 
 ---
